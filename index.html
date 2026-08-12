@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Olivia · Daily English Dashboard</title>
+  <meta name="description" content="Olivia's English speaking practice dashboard">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <div>
+        <div class="eyebrow">DAILY ENGLISH · OLIVIA</div>
+        <h1>Speaking Progress Dashboard</h1>
+        <p id="heroSubtitle">Independent learning history for Olivia</p>
+      </div>
+      <div class="hero-badge" id="levelBadge">Baseline pending</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="grid kpis" id="kpiGrid"></section>
+
+    <section class="panel readiness" id="readinessPanel">
+      <div class="panel-head"><div><span class="section-kicker">READINESS</span><h2 id="readinessTitle">Collecting a baseline</h2></div><span class="pill" id="readinessPhase">0 sessions</span></div>
+      <p id="readinessText">The first completed sessions will establish Olivia's own baseline. No scores or weaknesses are inherited from another learner.</p>
+    </section>
+
+    <section class="two-col">
+      <section class="panel">
+        <div class="panel-head"><div><span class="section-kicker">SKILLS</span><h2>Average scores</h2></div><span class="small">/10</span></div>
+        <div id="skillsChart" class="skill-list"></div>
+      </section>
+      <section class="panel">
+        <div class="panel-head"><div><span class="section-kicker">FOCUS</span><h2>Recurring weaknesses</h2></div></div>
+        <div id="weaknessList" class="chips"></div>
+        <p class="empty" id="weaknessEmpty">Patterns will appear after Olivia completes sessions.</p>
+      </section>
+    </section>
+
+    <section class="two-col">
+      <section class="panel">
+        <div class="panel-head"><div><span class="section-kicker">RECALL</span><h2>Review queue</h2></div></div>
+        <div id="reviewQueue"></div>
+      </section>
+      <section class="panel">
+        <div class="panel-head"><div><span class="section-kicker">LANGUAGE</span><h2>Recent expressions</h2></div></div>
+        <div id="expressionList" class="expression-list"></div>
+      </section>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head"><div><span class="section-kicker">HISTORY</span><h2>Completed sessions</h2></div><span class="small" id="historyCount"></span></div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Date</th><th>Type</th><th>Topic</th><th>Mode</th><th>Min</th><th>Turns</th><th>Overall</th><th>Next challenge</th></tr></thead>
+          <tbody id="sessionRows"></tbody>
+        </table>
+      </div>
+      <p class="empty" id="historyEmpty">No completed sessions yet.</p>
+    </section>
+
+    <section class="panel latest-note" id="latestNotePanel" hidden>
+      <div class="panel-head"><div><span class="section-kicker">LATEST LESSON NOTE</span><h2 id="latestNoteTitle"></h2></div></div>
+      <div id="latestNoteBody"></div>
+    </section>
+  </main>
+
+  <footer class="wrap footer">Olivia · Daily English · data from <code>data/sessions.json</code></footer>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>
