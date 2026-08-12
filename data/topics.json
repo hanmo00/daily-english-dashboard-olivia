@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "topics": [
+    {"id":"TOP-001","category":"daily life","prompt":"Which daily habit is worth protecting even on a very busy day?","followUps":["What makes it difficult?","What would you change first?"]},
+    {"id":"TOP-002","category":"relationships","prompt":"Is being direct always better than being polite?","followUps":["When can directness backfire?","Give a realistic example."]},
+    {"id":"TOP-003","category":"travel","prompt":"Is it better to plan a trip carefully or leave room for spontaneity?","followUps":["What can go wrong?","Which type of traveler are you?"]},
+    {"id":"TOP-004","category":"consumer choices","prompt":"When is paying more for quality actually rational?","followUps":["How do you judge quality?","What purchase would be an exception?"]},
+    {"id":"TOP-005","category":"education","prompt":"What should schools teach that exams rarely measure?","followUps":["How could it be assessed?","Who might disagree?"]},
+    {"id":"TOP-006","category":"psychology","prompt":"Can confidence be trained, or is it mostly a personality trait?","followUps":["What evidence would change your view?","What practical habit might help?"]},
+    {"id":"TOP-007","category":"culture","prompt":"Which social custom is useful but difficult for outsiders to understand?","followUps":["Why did it develop?","Should it change?"]},
+    {"id":"TOP-008","category":"health","prompt":"Should convenience or long-term health matter more in everyday food choices?","followUps":["What trade-off is realistic?","How would you advise a busy person?"]},
+    {"id":"TOP-009","category":"science & technology","prompt":"Which decisions should people never fully delegate to algorithms?","followUps":["What is the main risk?","What safeguard would you require?"]},
+    {"id":"TOP-010","category":"environment","prompt":"Should individuals change their habits even when industry has a much larger impact?","followUps":["What is fair?","What policy would help?"]},
+    {"id":"TOP-011","category":"history","prompt":"Why do societies remember some historical events more strongly than others?","followUps":["Who shapes public memory?","Can commemoration become misleading?"]},
+    {"id":"TOP-012","category":"media","prompt":"Does having more information make people better informed?","followUps":["What creates confusion?","How do you judge credibility?"]},
+    {"id":"TOP-013","category":"ethics","prompt":"When is breaking a rule justified by a better outcome?","followUps":["Who should decide?","What abuse could result?"]},
+    {"id":"TOP-014","category":"future","prompt":"What part of everyday life will change most in the next ten years?","followUps":["Who benefits?","What might remain surprisingly unchanged?"]},
+    {"id":"TOP-015","category":"problem solving","prompt":"You have half the expected budget but the same goal. What do you protect first?","followUps":["What do you cut?","How do you explain the decision?"]},
+    {"id":"TOP-016","category":"work & business","prompt":"What makes a status update trustworthy?","followUps":["How much detail is enough?","How should bad news be framed?"]},
+    {"id":"TOP-017","category":"work & business","prompt":"When should a team ask for a decision instead of doing more analysis?","followUps":["What information is essential?","What risk remains?"]},
+    {"id":"TOP-018","category":"work & business","prompt":"How should a team respond when a deadline and quality target conflict?","followUps":["What options would you present?","What would you recommend?"]}
+  ]
+}
