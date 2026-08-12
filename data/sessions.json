@@ -4,6 +4,8 @@
     "learnerName": "Olivia",
     "learnerId": "olivia",
     "learnerLevel": null,
+    "baselineStatus": "pending",
+    "baselineDate": null,
     "targetScore": 8,
     "generatedAt": "2026-08-12",
     "dataPolicy": "Only Olivia's completed sessions are included. No other learner's history, scores, weaknesses, expressions, or lesson notes may be merged.",
