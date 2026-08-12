@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "title": "AI English Coach Dashboard — Olivia",
+    "learnerName": "Olivia",
+    "learnerId": "olivia",
+    "learnerLevel": null,
+    "targetScore": 8,
+    "generatedAt": "2026-08-12",
+    "dataPolicy": "Only Olivia's completed sessions are included. No other learner's history, scores, weaknesses, expressions, or lesson notes may be merged.",
+    "savePolicy": "The command '세션 저장' triggers the verified GitHub save procedure for Olivia's repository only.",
+    "lessonNotePolicy": "Each completed session should contain observed learner language, focused corrections, target expressions, a final version, recall questions, and D+1/D+3/D+7 review dates when available."
+  },
+  "sessions": []
+}
