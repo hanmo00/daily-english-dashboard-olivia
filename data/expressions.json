@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "groups": [
+    {"name":"Structuring an answer","items":["The main point is that...","There are two reasons for that.","What matters most here is...","To put it another way...","The trade-off is...","If I had to choose, I'd..."]},
+    {"name":"Cause and effect","items":["One of the main reasons is...","That tends to lead to...","The immediate impact would be...","In the long run, that could...","A practical way to reduce that risk is..."]},
+    {"name":"Opinion and counterargument","items":["I can see why people argue that...","I agree up to a point, but...","That depends on what we mean by...","The strongest counterargument is...","Even so, I would still..."]},
+    {"name":"Clarifying under pressure","items":["Let me rephrase that.","What I mean is...","I don't know the exact figure, but...","I haven't thought about that before, but my first reaction is...","I'd separate that into two issues."]},
+    {"name":"Workplace decisions","items":["Here are the options as I see them.","My recommendation would be...","The main constraint is...","Would you prefer us to... or...?","If we keep the original deadline, we'll need to..."]}
+  ]
+}
