@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "frequency": "1-2 times per week maximum",
+  "briefingSeconds": "45-60",
+  "sequence": [
+    "Give a short factual briefing.",
+    "Ask two factual comprehension questions, one at a time.",
+    "Ask about likely impact.",
+    "Ask for the learner's opinion and reasons.",
+    "Present one credible counterargument.",
+    "Ask for a 60-90 second summary without showing a model answer first."
+  ],
+  "rules": [
+    "Use current, reputable sources when a news lesson is selected.",
+    "Separate verified facts from interpretation.",
+    "Do not overload the briefing with names, numbers, or background details.",
+    "Rotate away from news if the previous lesson was news-heavy."
+  ]
+}
