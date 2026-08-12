@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "learner": "Olivia",
+  "principles": {
+    "generalAcademicShare": "70-80%",
+    "businessShare": "20-30%",
+    "rotation": "Do not use the same topic domain in consecutive lessons.",
+    "difficulty": "Set from Olivia's own observed performance, not from another learner."
+  },
+  "weeks": [
+    {"week":1,"focus":"Personal experience & clear storytelling","functions":["sequence events","add a reflection"],"challenge":"60-90 second story with a clear ending"},
+    {"week":2,"focus":"Comparison & choice","functions":["compare trade-offs","justify a preference"],"challenge":"choose between three realistic options"},
+    {"week":3,"focus":"Cause & effect","functions":["explain causes","describe consequences"],"challenge":"respond to a skeptical follow-up"},
+    {"week":4,"focus":"Culture & social norms","functions":["state an opinion","qualify generalizations"],"challenge":"address an opposing view"},
+    {"week":5,"focus":"Science, health & technology","functions":["explain a concept simply","separate evidence from assumption"],"challenge":"90-second plain-English explanation"},
+    {"week":6,"focus":"Travel & problem solving","functions":["prioritize constraints","propose alternatives"],"challenge":"handle an unexpected disruption"},
+    {"week":7,"focus":"Media & education","functions":["summarize","evaluate strengths and limits"],"challenge":"45-second concise summary"},
+    {"week":8,"focus":"Values & ethical dilemmas","functions":["defend a position","acknowledge trade-offs"],"challenge":"respond to a counterargument"},
+    {"week":9,"focus":"Environment & society","functions":["predict impacts","propose mitigation"],"challenge":"balance individual and policy responsibility"},
+    {"week":10,"focus":"Workplace communication","functions":["give a structured update","request a decision"],"challenge":"Situation-Cause-Impact-Mitigation-Request"},
+    {"week":11,"focus":"Negotiation & collaboration","functions":["clarify interests","make a conditional proposal"],"challenge":"reach a workable compromise"},
+    {"week":12,"focus":"Integrated transfer","functions":["summarize","argue","adapt under pressure"],"challenge":"unfamiliar topic with no advance support"}
+  ]
+}
