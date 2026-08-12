@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "roleplays": [
+    {"id":"RP-001","domain":"travel","situation":"Your train is cancelled and you must reach another city tonight.","goal":"ask for options, compare trade-offs, choose one"},
+    {"id":"RP-002","domain":"consumer","situation":"A product you bought does not match the description, but the store offers only partial compensation.","goal":"explain the issue, negotiate, confirm the outcome"},
+    {"id":"RP-003","domain":"social","situation":"A friend repeatedly arrives late and asks why it bothers you.","goal":"describe impact, stay diplomatic, set a boundary"},
+    {"id":"RP-004","domain":"education","situation":"You must defend a controversial change to a school curriculum.","goal":"state rationale, answer objections, qualify claims"},
+    {"id":"RP-005","domain":"technology","situation":"A family member wants to use an AI service for a sensitive decision.","goal":"explain risks simply, suggest safeguards"},
+    {"id":"RP-006","domain":"health","situation":"Your schedule makes an ideal routine impossible.","goal":"prioritize, make a realistic plan, explain trade-offs"},
+    {"id":"RP-007","domain":"work","situation":"A project is late because a dependency was not available.","goal":"Situation-Cause-Impact-Mitigation-Request"},
+    {"id":"RP-008","domain":"work","situation":"Two teams disagree about whether to spend more money to protect a deadline.","goal":"Context-Options-Recommendation-Decision"}
+  ]
+}
